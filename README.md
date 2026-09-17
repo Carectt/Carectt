@@ -29,9 +29,8 @@
 
 ## 📫 Contact
 
-- GitHub：[YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- Email：[your.email@example.com](mailto:your.email@example.com)
-- Blog / Portfolio：[你的链接](https://example.com)
+- GitHub：[Carectt](https://github.com/Carectt)
+- Email：[carect@outlook.com](mailto:carect@outlook.com)
 
 如果你也在学习 C++、自动化或机器人相关内容，欢迎交流和相互学习！
 
